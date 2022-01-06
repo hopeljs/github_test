@@ -1,0 +1,1 @@
+document.txt.....확장자포함
